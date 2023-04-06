@@ -102,7 +102,7 @@ hr{
 .topcontainer{
     background-color: #E4F9F5;
     position: relative;
-    padding: 100px 0px;
+    padding: 100px 0px 0px 0px;
 }
 .top-cloud{
     position:absolute;
